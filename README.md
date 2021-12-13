@@ -679,3 +679,5 @@ All dependencies are managed automatically by Gradle.
 - [serenity](https://github.com/serenity-rs/serenity)
 
 **See also:** https://discord.com/developers/docs/topics/community-resources#libraries
+
+JDA 2021-2022 Copyright All to DV8FromTheWorld
